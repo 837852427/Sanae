@@ -1,3 +1,13 @@
+![](https://s3.ax1x.com/2021/03/01/6PiUfg.png)
+
+File encryption virus just for fun!!!
+
+It will encrypt your current directory test folder, which is './test', as it can be changed to encrypt all your files, so the source code will not be showed.
+
+To decrypt, just get 0.2 billions of points in the normal difficulty of Touhou 10 or just use my antidote or cheat to decrypt.
+
+How you can have fun!
+
 写着玩的文件加密病毒
 用的语言是Python
 加密的方法是AES
@@ -30,15 +40,3 @@ Extensions = ['.jpg','.txt','.doc','.xlsx','.png','.xls','.jpeg','.mp3','.mp4','
 的简易设定，奖励残机的方式也只是靠分数，我觉得很适合第一次玩东方的人玩，而且这作水平也是很不错的
 
 游戏下载地址: https://dl.3dmgame.com/pc/83272.html
-
-网盘地址: https://wws.lanzous.com/iSTBqm9f0hi
-
-
-
-File encryption virus just for fun!!!
-
-It will encrypt your current directory test folder, which is './test', as it can be changed to encrypt all your files, so the source code will not be showed.
-
-To decrypt, just get 0.2 billions of points in the normal difficulty of Touhou 10 or just use my antidote or cheat to decrypt.
-
-How you can have fun!
